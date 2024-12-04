@@ -13,7 +13,7 @@ TinyGPSPlus gps; // Create a TinyGPS++ object
 // const char* password = "24681012"; // Replace with your WiFi network password
 const char* ssid = "Aimanisaac"; // Replace with your WiFi network SSID
 const char* password = "rasydan808"; // Replace with your WiFi network password
-const char* serverAddress = "trolleytracker.000webhostapp.com"; // Replace with your server address
+const char* serverAddress = "https://github.com/d1vasaa/ProTrack-App"; // Replace with your server address
 const int serverPort = 80;  // HTTP default port
 
 void setup() {
